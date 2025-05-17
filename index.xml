@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>  | Мой сайт</title>
-    <link>https://sayprachanh-lsvnv.github.io/</link>
-      <atom:link href="https://sayprachanh-lsvnv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sayprachanh-lsvnv.github.io:1313/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io:1313/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sayprachanh-lsvnv.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://sayprachanh-lsvnv.github.io:1313/media/icon_hu_645fa481986063ef.png</url>
       <title> </title>
-      <link>https://sayprachanh-lsvnv.github.io/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://sayprachanh-lsvnv.github.io/event/example/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/event/example/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>🎉 Почему математика ОЧЕНЬ важна в программировании</title>
-      <link>https://sayprachanh-lsvnv.github.io/publication/post10/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post10/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/publication/post10/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post10/</guid>
       <description>&lt;h1 id=&#34;-почему-математика-очень-важна-в-программировании&#34;&gt;🤔 Почему математика ОЧЕНЬ важна в программировании&lt;/h1&gt;
 &lt;p&gt;Будем честны - многие (и я тоже раньше так думал) считают,
 что математика - это что-то скучное из школы и что она особо не нужна, чтобы быть хорошим программистом.
@@ -72,9 +72,9 @@
     
     <item>
       <title>🎉 Что случилось на моей прошлой неделе?</title>
-      <link>https://sayprachanh-lsvnv.github.io/post/post9/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/post/post9/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/post/post9/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/post/post9/</guid>
       <description>&lt;h2 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя?&lt;/h2&gt;
 &lt;p&gt;На этой неделе всё было вперемешку: немного учёбы, немного прокрастинации и много кофе.&lt;/p&gt;
 &lt;p&gt;Я пытался быть продуктивным, но каждый раз, как открывал ноутбук, оказывался в YouTube или с новой игрой.
@@ -85,9 +85,9 @@
     
     <item>
       <title>Прохождение курса введение в Linux</title>
-      <link>https://sayprachanh-lsvnv.github.io/project/linux/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/project/linux/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/project/linux/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/project/linux/</guid>
       <description>&lt;h2 id=&#34;-курс-по-linux&#34;&gt;🐧 Курс по Linux&lt;/h2&gt;
 &lt;p&gt;На этой неделе я завершил курс по основам операционной системы &lt;strong&gt;Linux&lt;/strong&gt;. Хочу поделиться впечатлениями о нём.&lt;/p&gt;
 &lt;p&gt;Начало&lt;/p&gt;
@@ -129,9 +129,9 @@
     
     <item>
       <title>🎉 Прошлая неделя</title>
-      <link>https://sayprachanh-lsvnv.github.io/post/post7/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/post/post7/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/post/post7/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/post/post7/</guid>
       <description>&lt;h2 id=&#34;моя-неделя--_-&#34;&gt;Моя неделя \ (._.) /&lt;/h2&gt;
 &lt;p&gt;Наконец-то мне удалось завершить несколько давно висящих заданий.
 Я устроил себе несколько дней отдыха, без заданий, просто играл в видеоигры целыми днями.
@@ -143,9 +143,9 @@
     
     <item>
       <title>🎉 Языки научного программирования.</title>
-      <link>https://sayprachanh-lsvnv.github.io/publication/post8/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post8/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/publication/post8/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post8/</guid>
       <description>&lt;h2 id=&#34;роль-языка-си-в-научном-программировании&#34;&gt;Роль языка Си в научном программировании&lt;/h2&gt;
 &lt;p&gt;Несмотря на популярность современных языков вроде Python и Julia,
 C по-прежнему занимает особое место в научных вычислениях. Он даёт максимальную производительность и контроль,
@@ -179,7 +179,7 @@ C по-прежнему занимает особое место в научны
                /publication/post8/cpu_hu_483e5e7b32b6ee46.webp 400w,
                /publication/post8/cpu_hu_8ecfe31ee9117990.webp 760w,
                /publication/post8/cpu_hu_9d81d92693465a25.webp 1200w&#34;
-               src=&#34;https://sayprachanh-lsvnv.github.io/publication/post8/cpu_hu_483e5e7b32b6ee46.webp&#34;
+               src=&#34;https://sayprachanh-lsvnv.github.io:1313/publication/post8/cpu_hu_483e5e7b32b6ee46.webp&#34;
                width=&#34;454&#34;
                height=&#34;658&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -196,9 +196,9 @@ C всё ещё вне конкуренции. Понимание C помога
     
     <item>
       <title>Neon</title>
-      <link>https://sayprachanh-lsvnv.github.io/project/neon/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/project/neon/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/project/neon/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/project/neon/</guid>
       <description>&lt;h2 id=&#34;что-такое-neon&#34;&gt;Что такое Neon?&lt;/h2&gt;
 &lt;p&gt;Neon - это 3D-игра, над которой я работаю уже довольно долго. Neon — это пиксельная инди-игра в стиле киберпанк.
 В мире, где город захвачен системой ИИ, игроку предстоит научиться выживать.
@@ -221,9 +221,9 @@ C всё ещё вне конкуренции. Понимание C помога
     
     <item>
       <title>Qis</title>
-      <link>https://sayprachanh-lsvnv.github.io/project/qis/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/project/qis/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/project/qis/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/project/qis/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Qis&lt;/strong&gt; - это кастомная оболочка, которую я пишу на C.
 Стараюсь сделать её максимально гибкой и удобной как для пользователей,
 так и для взаимодействия с системой.
@@ -234,9 +234,9 @@ C всё ещё вне конкуренции. Понимание C помога
     
     <item>
       <title>🎉 На прошлой неделе :D</title>
-      <link>https://sayprachanh-lsvnv.github.io/post/post5/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/post/post5/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/post/post5/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/post/post5/</guid>
       <description>&lt;h2 id=&#34;прошлая-неделя-в-двух-словах&#34;&gt;Прошлая неделя в двух словах!&lt;/h2&gt;
 &lt;p&gt;Эта неделя прошла в борьбе с кодом и вечном цейтноте.
 Я работал над программой, пытался использовать библиотеку — а оказалось, она только для x32, а у меня 64-битная система.
@@ -249,9 +249,9 @@ C всё ещё вне конкуренции. Понимание C помога
     
     <item>
       <title>🎉 Работа с библиографией</title>
-      <link>https://sayprachanh-lsvnv.github.io/publication/post6/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post6/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/publication/post6/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post6/</guid>
       <description>&lt;h2 id=&#34;работа-с-библиографией-полное-руководство-для-студентов-и-учёных&#34;&gt;Работа с библиографией: полное руководство для студентов и учёных&lt;/h2&gt;
 &lt;p&gt;Работа с библиографией — важнейший этап любой научной работы. Грамотное оформление источников не только защищает от плагиата,
 но и повышает доверие к вашему исследованию. Современные исследователи сталкиваются с разными типами источников: академическими статьями из Scopus и Web of Science, книгами,
@@ -272,9 +272,9 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
     
     <item>
       <title>🎉 На прошлой неделе?</title>
-      <link>https://sayprachanh-lsvnv.github.io/post/post3/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/post/post3/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/post/post3/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/post/post3/</guid>
       <description>&lt;h2 id=&#34;что-случилось-на-прошлой-неделе&#34;&gt;Что случилось на прошлой неделе?&lt;/h2&gt;
 &lt;p&gt;Прошлая неделя выдалась очень напряжённой: ранние утренние занятия, срочные домашние задания и подготовка к контрольным (почему все дедлайны всегда в один день?!).
 Несмотря на загруженность, я находил время для ночных игровых сессий — изучал механику платформеров, это ведь тоже учёба!&lt;/p&gt;
@@ -284,9 +284,9 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
     
     <item>
       <title>🎉 Язык разметки Markdown</title>
-      <link>https://sayprachanh-lsvnv.github.io/publication/post4/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post4/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/publication/post4/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post4/</guid>
       <description>&lt;h2 id=&#34;markdown-простой-способ-форматировать-текст&#34;&gt;Markdown: Простой способ форматировать текст&lt;/h2&gt;
 &lt;p&gt;Markdown — это облегчённый язык разметки, который делает написание и оформление текста простым.
 Созданный в 2004 году Джоном Грубером, он использует обычный текст с простыми символами (такими как #, * и -),
@@ -300,9 +300,9 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
     
     <item>
       <title>🎉 Управление версиями. Git.</title>
-      <link>https://sayprachanh-lsvnv.github.io/publication/post2/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post2/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/publication/post2/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post2/</guid>
       <description>&lt;h2 id=&#34;о-системе-управления-версиями&#34;&gt;О системе управления версиями&lt;/h2&gt;
 &lt;h3 id=&#34;что-такое-управление-версиями-и-зачем-оно-нужно&#34;&gt;&amp;ldquo;Что такое управление версиями и зачем оно нужно?&amp;rdquo;&lt;/h3&gt;
 &lt;p&gt;Управление версиями — это система, которая помогает отслеживать изменения в файлах с течением времени.
@@ -338,7 +338,7 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
                /publication/post2/github_03_hu_a3f88b773435ad9d.webp 400w,
                /publication/post2/github_03_hu_2c69be719558a69b.webp 760w,
                /publication/post2/github_03_hu_590bf6d9069d4583.webp 1200w&#34;
-               src=&#34;https://sayprachanh-lsvnv.github.io/publication/post2/github_03_hu_a3f88b773435ad9d.webp&#34;
+               src=&#34;https://sayprachanh-lsvnv.github.io:1313/publication/post2/github_03_hu_a3f88b773435ad9d.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -383,9 +383,9 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
     
     <item>
       <title>🎉 Что случилось на прошлой неделе?</title>
-      <link>https://sayprachanh-lsvnv.github.io/post/post1/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/post/post1/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/post/post1/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/post/post1/</guid>
       <description>&lt;h2 id=&#34;что-случилось-на-прошлой-неделе&#34;&gt;Что случилось на прошлой неделе?&lt;/h2&gt;
 &lt;p&gt;У меня было так много работы, которую нужно было закончить и отправить до дедлайнов. Казалось, что всё навалилось разом — задания, задачи по программированию и случайные срочные дела. Я постоянно говорил себе: &amp;ldquo;Ещё одну задачу&amp;rdquo;, но прежде чем я успевал опомниться, уже было 3 часа ночи.&lt;/p&gt;
 &lt;p&gt;Я был так сосредоточен на том, чтобы всё сделать, что почти не спал. Кофе стал моим лучшим другом, а сон — единственным спасением. Тем не менее, мне удалось сдать всё вовремя, и это было облегчением.&lt;/p&gt;
@@ -395,17 +395,17 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
     
     <item>
       <title>Проекты</title>
-      <link>https://sayprachanh-lsvnv.github.io/projects/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/projects/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://sayprachanh-lsvnv.github.io/teaching/js/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/teaching/js/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -448,7 +448,7 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://sayprachanh-lsvnv.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://sayprachanh-lsvnv.github.io:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -525,9 +525,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://sayprachanh-lsvnv.github.io/teaching/python/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/teaching/python/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -570,7 +570,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://sayprachanh-lsvnv.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://sayprachanh-lsvnv.github.io:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -647,9 +647,9 @@ data.head()
     
     <item>
       <title>Опыт</title>
-      <link>https://sayprachanh-lsvnv.github.io/experience/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io/experience/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/experience/</guid>
       <description></description>
     </item>
     
