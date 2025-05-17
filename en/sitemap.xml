@@ -44,6 +44,20 @@
                 href="http://localhost:1313/en/post/post9/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/publication/post10/</loc>
+    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/publication/post10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication/post10/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/post/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,6 +112,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/project/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/publication/</loc>
+    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
@@ -180,20 +208,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/project/neon/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/publication/</loc>
-    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/project/qis/</loc>

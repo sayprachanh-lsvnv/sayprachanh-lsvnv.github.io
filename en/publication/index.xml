@@ -5,7 +5,7 @@
     <link>http://localhost:1313/en/publication/</link>
       <atom:link href="http://localhost:1313/en/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Publications</title>
@@ -13,21 +13,55 @@
     </image>
     
     <item>
-      <title>🎉 Scientific programming languages</title>
+      <title>🎉 Why mathematics SUPER matters in programming</title>
+      <link>http://localhost:1313/en/publication/post10/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/post10/</guid>
+      <description>&lt;h1 id=&#34;-why-math-super-matters-in-programming-&#34;&gt;🤔 Why Math SUPER matters in Programming 💥&lt;/h1&gt;
+&lt;p&gt;Let’s be real - a lot of people (yep, me too at one point) think math is just some annoying leftover from school,
+and that you don’t really need it to be a good programmer.
+But once you get past the basics and start building actual stuff, math starts popping up everywhere.
+And turns out - it’s kind of a secret weapon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-algorithms--smart-problem-solving&#34;&gt;🔹 Algorithms = smart problem-solving&lt;/h2&gt;
+&lt;p&gt;At first, things like sorting or searching algorithms just feel like boring textbook exercises.
+But in real code? They&amp;rsquo;re the backbone of efficiency.
+Understanding them means you write better, faster, smarter solutions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-graphic-and-games&#34;&gt;🔹 Graphic and games&lt;/h2&gt;
+&lt;p&gt;When I started messing with game dev, especially 2D/3D stuff, math smacked me in the face.
+Movement, collision detection, camera angles - it’s all about vectors, geometry, and basic physics.
+Without it, you’re flying blind.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-ai-and-data&#34;&gt;🔹 AI and data&lt;/h2&gt;
+&lt;p&gt;Even if you&amp;rsquo;re just scratching the surface of machine learning or data science,
+you&amp;rsquo;ll hit math fast - linear algebra, stats, probability, you name it.
+The deeper you go, the more essential it becomes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-cybersecurity-and-crypto&#34;&gt;🔹 Cybersecurity and crypto&lt;/h2&gt;
+&lt;p&gt;Math literally protects your data. Encryption, hashing, digital signatures - it’s all math-driven.
+Even understanding how these systems don’t break gives you an edge as a dev.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-so-why-does-it-super-matter&#34;&gt;🧠 So why does it SUPER matter?&lt;/h2&gt;
+&lt;p&gt;Because math isn’t just about numbers - it’s about thinking clearly.
+It teaches structure, logic, patterns - all things programming lives on.
+You don’t need to be a math professor to code, but the more you learn, the more powerful you become.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 Scientific Programming Languages</title>
       <link>http://localhost:1313/en/publication/post8/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/publication/post8/</guid>
       <description>&lt;h2 id=&#34;the-role-of-c-in-scientific-programming&#34;&gt;The Role of C in Scientific Programming&lt;/h2&gt;
 &lt;p&gt;Despite the popularity of modern languages like Python and Julia,
-C remains indispensable in scientific computing. It delivers unmatched performance and control—
-a critical advantage in tasks where every fraction of a second matters. C enables direct interaction with memory and hardware,
-making it ideal for computational physics, climate modeling, simulations, and other resource-heavy fields.
-Many foundational libraries, such as BLAS, LAPACK, and FFTW, are still written in C (or Fortran),
-as even minor speed improvements can yield significant gains.&lt;/p&gt;
-&lt;p&gt;C is also widely used in embedded and real-time systems, such as medical devices or scientific experiments,
-where precision, predictability, and minimal overhead are essential. Even Python relies on C under the hood:
-libraries like NumPy and SciPy depend on C extensions. Languages like Rust or Julia seamlessly call C functions
-when maximum performance is required.&lt;/p&gt;
+C still holds a special place in scientific computing. It offers maximum performance and control - and in tasks where every fraction of a second matters, that’s a critical factor.
+C allows direct work with memory and hardware, making it the ideal choice for computational physics, climate modeling, simulations, and other resource-heavy fields.
+Many of the most important libraries - like &lt;strong&gt;BLAS, LAPACK, and FFTW&lt;/strong&gt; - are still written in C (or Fortran), because even small performance improvements can make a huge difference.&lt;/p&gt;
+&lt;p&gt;C is also heavily used in embedded and real-time systems, for example in medical devices or scientific instruments, where precision, predictability, and minimal overhead are essential.
+Even Python relies on C under the hood: libraries like NumPy and SciPy are built on C extensions.
+And languages like Rust or Julia easily call C functions when maximum performance is required.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -56,12 +90,11 @@ when maximum performance is required.&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Of course, C has drawbacks—manual memory management can lead to errors,
-and multithreading requires libraries like pthreads or OpenMP.
-But for truly demanding tasks, whether simulating galaxies or optimizing deep neural network layers,
-C remains unmatched. Understanding C reveals how computations work &amp;ldquo;under the hood.&amp;rdquo;
-Even if you code in modern languages, knowing C is like having a sharp knife:
-you might not use it daily, but when needed, nothing else compares.&lt;/p&gt;
+&lt;p&gt;Of course, C has its downsides - manual memory management can lead to errors, and multithreading often requires working with libraries like pthreads or OpenMP.
+But when the task is truly heavy - whether it’s simulating a galaxy or optimizing deep neural network layers — C is still unmatched.
+Understanding C helps you see how computation works under the hood.
+And even if you mostly write in more modern languages, knowing C is like having a good knife:
+you may not use it every day, but when you need it - nothing beats it.&lt;/p&gt;
 </description>
     </item>
     
