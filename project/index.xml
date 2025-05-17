@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Мой сайт</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sayprachanh-lsvnv.github.io:1313/project/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://sayprachanh-lsvnv.github.io:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/project/</link>
     </image>
     
     <item>
       <title>Прохождение курса введение в Linux</title>
-      <link>http://localhost:1313/project/linux/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/project/linux/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/linux/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/project/linux/</guid>
       <description>&lt;h2 id=&#34;-курс-по-linux&#34;&gt;🐧 Курс по Linux&lt;/h2&gt;
 &lt;p&gt;На этой неделе я завершил курс по основам операционной системы &lt;strong&gt;Linux&lt;/strong&gt;. Хочу поделиться впечатлениями о нём.&lt;/p&gt;
 &lt;p&gt;Начало&lt;/p&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>Neon</title>
-      <link>http://localhost:1313/project/neon/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/project/neon/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/neon/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/project/neon/</guid>
       <description>&lt;h2 id=&#34;что-такое-neon&#34;&gt;Что такое Neon?&lt;/h2&gt;
 &lt;p&gt;Neon - это 3D-игра, над которой я работаю уже довольно долго. Neon — это пиксельная инди-игра в стиле киберпанк.
 В мире, где город захвачен системой ИИ, игроку предстоит научиться выживать.
@@ -83,9 +83,9 @@
     
     <item>
       <title>Qis</title>
-      <link>http://localhost:1313/project/qis/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/project/qis/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/qis/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/project/qis/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Qis&lt;/strong&gt; - это кастомная оболочка, которую я пишу на C.
 Стараюсь сделать её максимально гибкой и удобной как для пользователей,
 так и для взаимодействия с системой.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>  | My site</title>
-    <link>http://localhost:1313/en/</link>
-      <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sayprachanh-lsvnv.github.io:1313/en/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://sayprachanh-lsvnv.github.io:1313/media/icon_hu_645fa481986063ef.png</url>
       <title> </title>
-      <link>http://localhost:1313/en/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/en/event/example/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/event/example/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>🎉 What happened in my last week?</title>
-      <link>http://localhost:1313/en/post/post9/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/post/post9/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/post9/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/post/post9/</guid>
       <description>&lt;h2 id=&#34;how-my-week-went&#34;&gt;How my week went&lt;/h2&gt;
 &lt;p&gt;This week was a mix of everything: a bit of studying, a bit of procrastination, and lots of coffee.&lt;/p&gt;
 &lt;p&gt;I tried to be productive, but every time I opened my laptop, I somehow ended up on YouTube or playing a new game.
@@ -48,9 +48,9 @@ Trying to convince myself that rest is also a part of being productive.😪&lt;/
     
     <item>
       <title>🎉 Why mathematics SUPER matters in programming</title>
-      <link>http://localhost:1313/en/publication/post10/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/publication/post10/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/publication/post10/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/publication/post10/</guid>
       <description>&lt;h1 id=&#34;-why-math-super-matters-in-programming-&#34;&gt;🤔 Why Math SUPER matters in Programming 💥&lt;/h1&gt;
 &lt;p&gt;Let’s be real - a lot of people (yep, me too at one point) think math is just some annoying leftover from school,
 and that you don’t really need it to be a good programmer.
@@ -85,9 +85,9 @@ You don’t need to be a math professor to code, but the more you learn, the mor
     
     <item>
       <title>Taking the course introduction to Linux</title>
-      <link>http://localhost:1313/en/project/linux/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/linux/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/linux/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/project/linux/</guid>
       <description>&lt;h2 id=&#34;-course-about-linux&#34;&gt;🐧 Course about Linux&lt;/h2&gt;
 &lt;p&gt;In this week, I completed the course on basic operating system &lt;strong&gt;Linux&lt;/strong&gt;. And I will share my experience about ths e course.&lt;/p&gt;
 &lt;p&gt;Start,&lt;/p&gt;
@@ -131,9 +131,9 @@ especially the part of writing program script, since it requires to think and ap
     
     <item>
       <title>🎉 Last week</title>
-      <link>http://localhost:1313/en/post/post7/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/post/post7/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/post7/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/post/post7/</guid>
       <description>&lt;h2 id=&#34;my-week--_-&#34;&gt;My week \ (._.) /&lt;/h2&gt;
 &lt;p&gt;I finally managed to finish some long-overdue assignments.
 I gave myself a few days off — no tasks, just played video games all day.
@@ -144,9 +144,9 @@ Overall, last week was really relaxing… so relaxing, it actually stressed me o
     
     <item>
       <title>🎉 Scientific Programming Languages</title>
-      <link>http://localhost:1313/en/publication/post8/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/publication/post8/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/publication/post8/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/publication/post8/</guid>
       <description>&lt;h2 id=&#34;the-role-of-c-in-scientific-programming&#34;&gt;The Role of C in Scientific Programming&lt;/h2&gt;
 &lt;p&gt;Despite the popularity of modern languages like Python and Julia,
 C still holds a special place in scientific computing. It offers maximum performance and control - and in tasks where every fraction of a second matters, that’s a critical factor.
@@ -177,7 +177,7 @@ And languages like Rust or Julia easily call C functions when maximum performanc
                /en/publication/post8/cpu_hu_483e5e7b32b6ee46.webp 400w,
                /en/publication/post8/cpu_hu_8ecfe31ee9117990.webp 760w,
                /en/publication/post8/cpu_hu_9d81d92693465a25.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/publication/post8/cpu_hu_483e5e7b32b6ee46.webp&#34;
+               src=&#34;https://sayprachanh-lsvnv.github.io:1313/en/publication/post8/cpu_hu_483e5e7b32b6ee46.webp&#34;
                width=&#34;454&#34;
                height=&#34;658&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -193,9 +193,9 @@ you may not use it every day, but when you need it - nothing beats it.&lt;/p&gt;
     
     <item>
       <title>Neon</title>
-      <link>http://localhost:1313/en/project/neon/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/neon/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/neon/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/project/neon/</guid>
       <description>&lt;h2 id=&#34;what-is-neon&#34;&gt;What is Neon?&lt;/h2&gt;
 &lt;p&gt;Neon is the 3D game that I have been working for quite some times now, Neon is a pixel-based indie cyberpunk game.
 In a world where the city has been captured by the AI system, the player will have to learn how to survive.
@@ -219,9 +219,9 @@ Gloomy atmosphere, stylish neons, and the struggle of a man with machines&lt;/p&
     
     <item>
       <title>Qis</title>
-      <link>http://localhost:1313/en/project/qis/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/qis/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/qis/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/project/qis/</guid>
       <description>&lt;p&gt;Qis is a custom bash shell I’m building in C.
 I’m striving to make it as flexible and user-friendly as possible, both for everyday users
 and seamless system interaction. A mini-tool for those who crave a little more control.&lt;/p&gt;
@@ -231,9 +231,9 @@ and seamless system interaction. A mini-tool for those who crave a little more c
     
     <item>
       <title>🎉 In last week :D</title>
-      <link>http://localhost:1313/en/post/post5/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/post/post5/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/post5/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/post/post5/</guid>
       <description>&lt;h2 id=&#34;last-week-in-two-words&#34;&gt;Last week in two words!&lt;/h2&gt;
 &lt;p&gt;This week was a battle with code and a constant race against time.
 I was working on a program, trying to use a library — turns out, it’s only for x32, and I have a 64-bit system.
@@ -246,9 +246,9 @@ Some days felt like a race against the clock, but what can you do — that’s t
     
     <item>
       <title>🎉 Working with the bibliography</title>
-      <link>http://localhost:1313/en/publication/post6/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/publication/post6/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/publication/post6/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/publication/post6/</guid>
       <description>&lt;h2 id=&#34;working-with-bibliographies-a-complete-guide-for-students-and-researchers&#34;&gt;Working with Bibliographies: A Complete Guide for Students and Researchers&lt;/h2&gt;
 &lt;p&gt;Working with bibliographies is a critical stage of any academic work. Properly formatting sources not only protects against plagiarism
 but also enhances the credibility of your research. Modern researchers encounter diverse source types: academic articles from Scopus and Web of Science, books,
@@ -269,9 +269,9 @@ Mastering bibliography management ultimately saves time and lets you focus on th
     
     <item>
       <title>🎉 In last week?</title>
-      <link>http://localhost:1313/en/post/post3/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/post/post3/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/post3/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/post/post3/</guid>
       <description>&lt;h2 id=&#34;what-happened-last-week&#34;&gt;What happened last week?&lt;/h2&gt;
 &lt;p&gt;Last week was extremely intense: early morning classes, urgent homework,
 and prepping for exams (why are all the deadlines always on the same day?!).
@@ -285,9 +285,9 @@ I’m already working on improvements for the next version!&lt;/p&gt;
     
     <item>
       <title>🎉 Mardown Markup Language</title>
-      <link>http://localhost:1313/en/publication/post4/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/publication/post4/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/publication/post4/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/publication/post4/</guid>
       <description>&lt;h2 id=&#34;markdown-a-simple-way-to-format-text&#34;&gt;Markdown: A Simple Way to Format Text&lt;/h2&gt;
 &lt;p&gt;Markdown is a lightweight markup language that simplifies writing and formatting text.
 Created in 2004 by John Gruber, it uses plain text with simple symbols (such as #, *, and -)
@@ -301,9 +301,9 @@ For example, ** (bold) ** becomes bold, and # Header turns into a large heading.
     
     <item>
       <title>🎉 Version Control. Git.</title>
-      <link>http://localhost:1313/en/publication/post2/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/publication/post2/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/publication/post2/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/publication/post2/</guid>
       <description>&lt;h2 id=&#34;about-systems-version-control&#34;&gt;About systems Version Control&lt;/h2&gt;
 &lt;h3 id=&#34;what-is-version-control-and-why-is-it-needed&#34;&gt;&amp;ldquo;What is version control and why is it needed?&amp;rdquo;&lt;/h3&gt;
 &lt;p&gt;Version control is a system that helps track changes in files over time.
@@ -339,7 +339,7 @@ Once the experiment is complete, the changes can be merged with the main version
                /en/publication/post2/github_03_hu_a3f88b773435ad9d.webp 400w,
                /en/publication/post2/github_03_hu_2c69be719558a69b.webp 760w,
                /en/publication/post2/github_03_hu_590bf6d9069d4583.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/publication/post2/github_03_hu_a3f88b773435ad9d.webp&#34;
+               src=&#34;https://sayprachanh-lsvnv.github.io:1313/en/publication/post2/github_03_hu_a3f88b773435ad9d.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -385,9 +385,9 @@ If you’re not using Git yet, now’s the perfect time to start!&lt;/p&gt;
     
     <item>
       <title>🎉 What happened in the last week?</title>
-      <link>http://localhost:1313/en/post/post1/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/post/post1/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/post1/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/post/post1/</guid>
       <description>&lt;h2 id=&#34;what-happened-last-week&#34;&gt;What happened last week?&lt;/h2&gt;
 &lt;p&gt;I had so much work that needed to be finished and submitted before the deadlines.
 It felt like everything piled up at once — assignments, programming tasks, and random urgent matters.
@@ -401,25 +401,25 @@ Lesson learned: deadlines matter, but so does sleep!&lt;/p&gt;
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/en/projects/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/en/experience/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/experience/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/en/teaching/js/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/teaching/js/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -462,7 +462,7 @@ Lesson learned: deadlines matter, but so does sleep!&lt;/p&gt;
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/en/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://sayprachanh-lsvnv.github.io:1313/en/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -539,9 +539,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/en/teaching/python/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/teaching/python/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -584,7 +584,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/en/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://sayprachanh-lsvnv.github.io:1313/en/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;

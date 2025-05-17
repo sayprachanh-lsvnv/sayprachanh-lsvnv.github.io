@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Публикации | Мой сайт</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sayprachanh-lsvnv.github.io:1313/publication/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Публикации</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://sayprachanh-lsvnv.github.io:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Публикации</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/</link>
     </image>
     
     <item>
       <title>🎉 Почему математика ОЧЕНЬ важна в программировании</title>
-      <link>http://localhost:1313/publication/post10/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post10/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/post10/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post10/</guid>
       <description>&lt;h1 id=&#34;-почему-математика-очень-важна-в-программировании&#34;&gt;🤔 Почему математика ОЧЕНЬ важна в программировании&lt;/h1&gt;
 &lt;p&gt;Будем честны - многие (и я тоже раньше так думал) считают,
 что математика - это что-то скучное из школы и что она особо не нужна, чтобы быть хорошим программистом.
@@ -51,9 +51,9 @@
     
     <item>
       <title>🎉 Языки научного программирования.</title>
-      <link>http://localhost:1313/publication/post8/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post8/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/post8/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post8/</guid>
       <description>&lt;h2 id=&#34;роль-языка-си-в-научном-программировании&#34;&gt;Роль языка Си в научном программировании&lt;/h2&gt;
 &lt;p&gt;Несмотря на популярность современных языков вроде Python и Julia,
 C по-прежнему занимает особое место в научных вычислениях. Он даёт максимальную производительность и контроль,
@@ -87,7 +87,7 @@ C по-прежнему занимает особое место в научны
                /publication/post8/cpu_hu_483e5e7b32b6ee46.webp 400w,
                /publication/post8/cpu_hu_8ecfe31ee9117990.webp 760w,
                /publication/post8/cpu_hu_9d81d92693465a25.webp 1200w&#34;
-               src=&#34;http://localhost:1313/publication/post8/cpu_hu_483e5e7b32b6ee46.webp&#34;
+               src=&#34;https://sayprachanh-lsvnv.github.io:1313/publication/post8/cpu_hu_483e5e7b32b6ee46.webp&#34;
                width=&#34;454&#34;
                height=&#34;658&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,9 +104,9 @@ C всё ещё вне конкуренции. Понимание C помога
     
     <item>
       <title>🎉 Работа с библиографией</title>
-      <link>http://localhost:1313/publication/post6/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post6/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/post6/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post6/</guid>
       <description>&lt;h2 id=&#34;работа-с-библиографией-полное-руководство-для-студентов-и-учёных&#34;&gt;Работа с библиографией: полное руководство для студентов и учёных&lt;/h2&gt;
 &lt;p&gt;Работа с библиографией — важнейший этап любой научной работы. Грамотное оформление источников не только защищает от плагиата,
 но и повышает доверие к вашему исследованию. Современные исследователи сталкиваются с разными типами источников: академическими статьями из Scopus и Web of Science, книгами,
@@ -127,9 +127,9 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
     
     <item>
       <title>🎉 Язык разметки Markdown</title>
-      <link>http://localhost:1313/publication/post4/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post4/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/post4/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post4/</guid>
       <description>&lt;h2 id=&#34;markdown-простой-способ-форматировать-текст&#34;&gt;Markdown: Простой способ форматировать текст&lt;/h2&gt;
 &lt;p&gt;Markdown — это облегчённый язык разметки, который делает написание и оформление текста простым.
 Созданный в 2004 году Джоном Грубером, он использует обычный текст с простыми символами (такими как #, * и -),
@@ -143,9 +143,9 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
     
     <item>
       <title>🎉 Управление версиями. Git.</title>
-      <link>http://localhost:1313/publication/post2/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/publication/post2/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/post2/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/publication/post2/</guid>
       <description>&lt;h2 id=&#34;о-системе-управления-версиями&#34;&gt;О системе управления версиями&lt;/h2&gt;
 &lt;h3 id=&#34;что-такое-управление-версиями-и-зачем-оно-нужно&#34;&gt;&amp;ldquo;Что такое управление версиями и зачем оно нужно?&amp;rdquo;&lt;/h3&gt;
 &lt;p&gt;Управление версиями — это система, которая помогает отслеживать изменения в файлах с течением времени.
@@ -181,7 +181,7 @@ Mendeley удобен для работы с PDF-файлами, а EndNote по
                /publication/post2/github_03_hu_a3f88b773435ad9d.webp 400w,
                /publication/post2/github_03_hu_2c69be719558a69b.webp 760w,
                /publication/post2/github_03_hu_590bf6d9069d4583.webp 1200w&#34;
-               src=&#34;http://localhost:1313/publication/post2/github_03_hu_a3f88b773435ad9d.webp&#34;
+               src=&#34;https://sayprachanh-lsvnv.github.io:1313/publication/post2/github_03_hu_a3f88b773435ad9d.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self-Tuaght Programming | My site</title>
-    <link>http://localhost:1313/en/tags/self-tuaght-programming/</link>
-      <atom:link href="http://localhost:1313/en/tags/self-tuaght-programming/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sayprachanh-lsvnv.github.io:1313/en/tags/self-tuaght-programming/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io:1313/en/tags/self-tuaght-programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Self-Tuaght Programming</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://sayprachanh-lsvnv.github.io:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Self-Tuaght Programming</title>
-      <link>http://localhost:1313/en/tags/self-tuaght-programming/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/tags/self-tuaght-programming/</link>
     </image>
     
     <item>
       <title>Qis</title>
-      <link>http://localhost:1313/en/project/qis/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/qis/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/qis/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/project/qis/</guid>
       <description>&lt;p&gt;Qis is a custom bash shell I’m building in C.
 I’m striving to make it as flexible and user-friendly as possible, both for everyday users
 and seamless system interaction. A mini-tool for those who crave a little more control.&lt;/p&gt;

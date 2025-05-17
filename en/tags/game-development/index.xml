@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Development | My site</title>
-    <link>http://localhost:1313/en/tags/game-development/</link>
-      <atom:link href="http://localhost:1313/en/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sayprachanh-lsvnv.github.io:1313/en/tags/game-development/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io:1313/en/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Game Development</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://sayprachanh-lsvnv.github.io:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Game Development</title>
-      <link>http://localhost:1313/en/tags/game-development/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/tags/game-development/</link>
     </image>
     
     <item>
       <title>Neon</title>
-      <link>http://localhost:1313/en/project/neon/</link>
+      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/neon/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/neon/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io:1313/en/project/neon/</guid>
       <description>&lt;h2 id=&#34;what-is-neon&#34;&gt;What is Neon?&lt;/h2&gt;
 &lt;p&gt;Neon is the 3D game that I have been working for quite some times now, Neon is a pixel-based indie cyberpunk game.
 In a world where the city has been captured by the AI system, the player will have to learn how to survive.

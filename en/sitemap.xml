@@ -2,439 +2,439 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/event/example/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/event/example/"
+                href="https://sayprachanh-lsvnv.github.io:1313/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/event/example/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/event/example/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/event/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/event/"
+                href="https://sayprachanh-lsvnv.github.io:1313/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/event/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/event/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/post/post9/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/post/post9/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/post/post9/"
+                href="https://sayprachanh-lsvnv.github.io:1313/post/post9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post9/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/post/post9/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication/post10/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/publication/post10/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/publication/post10/"
+                href="https://sayprachanh-lsvnv.github.io:1313/publication/post10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/post10/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/publication/post10/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/post/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/post/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/post/"
+                href="https://sayprachanh-lsvnv.github.io:1313/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/linux/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/linux/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/tags/linux/"
+                href="https://sayprachanh-lsvnv.github.io:1313/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/linux/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/tags/linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/markdown/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/markdown/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/tags/markdown/"
+                href="https://sayprachanh-lsvnv.github.io:1313/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/markdown/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/project/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/project/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/project/"
+                href="https://sayprachanh-lsvnv.github.io:1313/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/project/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/publication/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/publication/"
+                href="https://sayprachanh-lsvnv.github.io:1313/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/publication/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/tags/"
+                href="https://sayprachanh-lsvnv.github.io:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/project/linux/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/project/linux/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/project/linux/"
+                href="https://sayprachanh-lsvnv.github.io:1313/project/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/linux/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/project/linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/post/post7/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/post/post7/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/post/post7/"
+                href="https://sayprachanh-lsvnv.github.io:1313/post/post7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post7/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/post/post7/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication/post8/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/publication/post8/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/publication/post8/"
+                href="https://sayprachanh-lsvnv.github.io:1313/publication/post8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/post8/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/publication/post8/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/3d-pixel-art-game/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/3d-pixel-art-game/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/tags/custom-bash-shell/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/custom-bash-shell/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/tags/game-development/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/game-development/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/project/neon/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/project/neon/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/project/neon/"
+                href="https://sayprachanh-lsvnv.github.io:1313/project/neon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/neon/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/project/neon/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/project/qis/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/project/qis/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/project/qis/"
+                href="https://sayprachanh-lsvnv.github.io:1313/project/qis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/qis/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/project/qis/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/self-tuaght-programming/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/self-tuaght-programming/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/post/post5/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/post/post5/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/post/post5/"
+                href="https://sayprachanh-lsvnv.github.io:1313/post/post5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post5/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/post/post5/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication/post6/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/publication/post6/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/publication/post6/"
+                href="https://sayprachanh-lsvnv.github.io:1313/publication/post6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/post6/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/publication/post6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/post/post3/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/post/post3/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/post/post3/"
+                href="https://sayprachanh-lsvnv.github.io:1313/post/post3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post3/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/post/post3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication/post4/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/publication/post4/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/publication/post4/"
+                href="https://sayprachanh-lsvnv.github.io:1313/publication/post4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/post4/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/publication/post4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication/post2/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/publication/post2/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/publication/post2/"
+                href="https://sayprachanh-lsvnv.github.io:1313/publication/post2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/post2/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/publication/post2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/post/post1/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/post/post1/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/post/post1/"
+                href="https://sayprachanh-lsvnv.github.io:1313/post/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post1/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/post/post1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/projects/"
+                href="https://sayprachanh-lsvnv.github.io:1313/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/projects/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/experience/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/experience/"
+                href="https://sayprachanh-lsvnv.github.io:1313/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/experience/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/javascript/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/tags/javascript/"
+                href="https://sayprachanh-lsvnv.github.io:1313/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/javascript/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/tags/javascript/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/teaching/js/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/teaching/js/"
+                href="https://sayprachanh-lsvnv.github.io:1313/teaching/js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/js/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/teaching/js/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/teaching/python/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/teaching/python/"
+                href="https://sayprachanh-lsvnv.github.io:1313/teaching/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/python/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/teaching/python/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/python/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/tags/python/"
+                href="https://sayprachanh-lsvnv.github.io:1313/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/python/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/tags/python/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/teaching/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/teaching/"
+                href="https://sayprachanh-lsvnv.github.io:1313/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/"
+                href="https://sayprachanh-lsvnv.github.io:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication_types/</loc>
+    <loc>https://sayprachanh-lsvnv.github.io:1313/en/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/publication_types/"
+                href="https://sayprachanh-lsvnv.github.io:1313/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/"
+                href="https://sayprachanh-lsvnv.github.io:1313/en/publication_types/"
                 />
   </url>
 </urlset>
