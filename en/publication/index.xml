@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | My site</title>
+    <link>http://localhost:1313/en/publication/</link>
+      <atom:link href="http://localhost:1313/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>🎉 Scientific programming languages</title>
+      <link>http://localhost:1313/en/publication/post8/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/post8/</guid>
+      <description>&lt;h2 id=&#34;the-role-of-c-in-scientific-programming&#34;&gt;The Role of C in Scientific Programming&lt;/h2&gt;
+&lt;p&gt;Despite the popularity of modern languages like Python and Julia,
+C remains indispensable in scientific computing. It delivers unmatched performance and control—
+a critical advantage in tasks where every fraction of a second matters. C enables direct interaction with memory and hardware,
+making it ideal for computational physics, climate modeling, simulations, and other resource-heavy fields.
+Many foundational libraries, such as BLAS, LAPACK, and FFTW, are still written in C (or Fortran),
+as even minor speed improvements can yield significant gains.&lt;/p&gt;
+&lt;p&gt;C is also widely used in embedded and real-time systems, such as medical devices or scientific experiments,
+where precision, predictability, and minimal overhead are essential. Even Python relies on C under the hood:
+libraries like NumPy and SciPy depend on C extensions. Languages like Rust or Julia seamlessly call C functions
+when maximum performance is required.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/publication/post8/cpu_hu_483e5e7b32b6ee46.webp 400w,
+               /en/publication/post8/cpu_hu_8ecfe31ee9117990.webp 760w,
+               /en/publication/post8/cpu_hu_9d81d92693465a25.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/publication/post8/cpu_hu_483e5e7b32b6ee46.webp&#34;
+               width=&#34;454&#34;
+               height=&#34;658&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Of course, C has drawbacks—manual memory management can lead to errors,
+and multithreading requires libraries like pthreads or OpenMP.
+But for truly demanding tasks, whether simulating galaxies or optimizing deep neural network layers,
+C remains unmatched. Understanding C reveals how computations work &amp;ldquo;under the hood.&amp;rdquo;
+Even if you code in modern languages, knowing C is like having a sharp knife:
+you might not use it daily, but when needed, nothing else compares.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 Working with the bibliography</title>
+      <link>http://localhost:1313/en/publication/post6/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/post6/</guid>
+      <description>&lt;h2 id=&#34;working-with-bibliographies-a-complete-guide-for-students-and-researchers&#34;&gt;Working with Bibliographies: A Complete Guide for Students and Researchers&lt;/h2&gt;
+&lt;p&gt;Working with bibliographies is a critical stage of any academic work. Properly formatting sources not only protects against plagiarism
+but also enhances the credibility of your research. Modern researchers encounter diverse source types: academic articles from Scopus and Web of Science, books,
+patents, and regulatory documents—each requiring specific citation approaches.&lt;/p&gt;
+&lt;p&gt;To organize bibliographies effectively, use specialized reference managers. Zotero offers a free and simple solution,
+Mendeley excels at PDF management, and EndNote suits complex projects. Group sources by topic, add annotations and tags,
+and regularly back them up to cloud storage and local drives.&lt;/p&gt;
+&lt;p&gt;When formatting, adhere to your chosen citation style. GOST is used in Russian dissertations, APA in psychology and sociology, MLA in humanities.
+Common mistakes include mixing styles, incomplete source data, and improper formatting of online resources. Pay special attention to academic
+integrity: always credit authors, use quotation marks for direct quotes, and run plagiarism checks using detection systems.&lt;/p&gt;
+&lt;p&gt;While the focus is on bibliographies, the role of libraries cannot be overlooked. They provide access to paid databases with citation export options,
+consultations for complex citation cases, and training workshops on reference managers.&lt;/p&gt;
+&lt;p&gt;Students are advised to start building bibliographies early in their studies using templates.
+Researchers should regularly update literature lists and analyze the citation impact of their sources.
+Mastering bibliography management ultimately saves time and lets you focus on the core content of your work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 Mardown Markup Language</title>
+      <link>http://localhost:1313/en/publication/post4/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/post4/</guid>
+      <description>&lt;h2 id=&#34;markdown-a-simple-way-to-format-text&#34;&gt;Markdown: A Simple Way to Format Text&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight markup language that simplifies writing and formatting text.
+Created in 2004 by John Gruber, it uses plain text with simple symbols (such as #, *, and -)
+to structure documents without complex editors.&lt;/p&gt;
+&lt;p&gt;Unlike HTML or word processors, Markdown remains readable even in its raw form and easily converts to HTML, PDF, and other formats. Its versatility and simplicity have made it popular among developers, writers, and note-takers.&lt;/p&gt;
+&lt;p&gt;With Markdown, you can quickly add bold text, italics, headers, lists, links, and even code snippets all without using a mouse.
+For example, ** (bold) ** becomes bold, and # Header turns into a large heading. Markdown works seamlessly in services like GitHub, Notion, Slack, and static site generators (e.g., Jekyll or Hugo). Since it’s plain text, your files remain compatible with any platform and never become obsolete.&lt;/p&gt;
+&lt;p&gt;Whether you’re writing documentation, articles, or notes—Markdown saves time and keeps your text clean.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 Version Control. Git.</title>
+      <link>http://localhost:1313/en/publication/post2/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/post2/</guid>
+      <description>&lt;h2 id=&#34;about-systems-version-control&#34;&gt;About systems Version Control&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-version-control-and-why-is-it-needed&#34;&gt;&amp;ldquo;What is version control and why is it needed?&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;Version control is a system that helps track changes in files over time.
+Imagine you&amp;rsquo;re working on a project — whether it&amp;rsquo;s code, a document, or even a design.
+You make changes, add new features, or fix bugs, but then realize something went wrong
+and you need to revert to a previous version. Without a version control system, this would be extremely difficult.&lt;/p&gt;
+&lt;p&gt;Version control allows you to save the history of all changes. You can return to an earlier version of a file at any time,
+compare different versions, or even undo changes if they turned out to be mistakes.
+This is especially useful when several people are working on a project. Each team member can make changes
+without the fear of losing important data or creating confusion.&lt;/p&gt;
+&lt;p&gt;In addition, version control systems help organize the workflow on a project.
+You can create &amp;ldquo;branches&amp;rdquo; to experiment with new ideas without affecting the main version of the project.
+Once the experiment is complete, the changes can be merged with the main version.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/publication/post2/github_03_hu_a3f88b773435ad9d.webp 400w,
+               /en/publication/post2/github_03_hu_2c69be719558a69b.webp 760w,
+               /en/publication/post2/github_03_hu_590bf6d9069d4583.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/publication/post2/github_03_hu_a3f88b773435ad9d.webp&#34;
+               width=&#34;635&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In today’s world, where projects are becoming more complex and teams larger, version control has become an essential tool
+for developers, designers, and even writers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;git&#34;&gt;Git&lt;/h2&gt;
+&lt;h3 id=&#34;git-why-has-it-become-the-standard-for-developers&#34;&gt;Git: Why has it become the standard for developers?&amp;quot;&lt;/h3&gt;
+&lt;p&gt;Git is one of the most popular version control systems used by developers around the world.
+Created by Linus Torvalds (the creator of Linux), Git has become the standard for managing code and projects.
+But what makes it so popular?&lt;/p&gt;
+&lt;p&gt;First of all, Git allows you to save the entire history of changes in a project. Every time you make changes,
+you create a &amp;ldquo;commit&amp;rdquo; that records the current state of the files. If something goes wrong,
+you can always go back to any of the previous commits.&lt;/p&gt;
+&lt;p&gt;Secondly, Git supports branches. Branches allow you to experiment with new ideas without affecting the main codebase.
+For example, you can create a separate branch to develop a new feature, and when it’s ready,
+merge it into the main version of the project.&lt;/p&gt;
+&lt;p&gt;Another advantage of Git is its support for teamwork. Multiple developers can make changes to the same project at the same time,
+and Git automatically tracks these changes and helps resolve conflicts if they occur.&lt;/p&gt;
+&lt;p&gt;Git also integrates with collaboration platforms like GitHub, GitLab, and Bitbucket.
+These platforms allow you to store code in the cloud, share it with other developers, and track tasks.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re just getting started with Git, begin with the basic commands:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;git init&lt;/strong&gt; - initialize a new repository.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;git add&lt;/strong&gt; - add files to be tracked.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;git commit&lt;/strong&gt; - save changes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;git push&lt;/strong&gt; - upload changes to a remote server.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git is a powerful tool that simplifies project work, saves time, and helps avoid mistakes.
+If you’re not using Git yet, now’s the perfect time to start!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

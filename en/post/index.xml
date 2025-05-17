@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My site</title>
+    <link>http://localhost:1313/en/post/</link>
+      <atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>http://localhost:1313/en/post/</link>
+    </image>
+    
+    <item>
+      <title>🎉 What happened in my last week?</title>
+      <link>http://localhost:1313/en/post/post9/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/post9/</guid>
+      <description>&lt;h2 id=&#34;how-my-week-went&#34;&gt;How my week went&lt;/h2&gt;
+&lt;p&gt;This week was a mix of everything: a bit of studying, a bit of procrastination, and lots of coffee.&lt;/p&gt;
+&lt;p&gt;I tried to be productive, but every time I opened my laptop, I somehow ended up on YouTube or playing a new game.
+Still, I managed to get a few things done, so my conscience is (mostly) clear.
+Trying to convince myself that rest is also a part of being productive.😪&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 Last week</title>
+      <link>http://localhost:1313/en/post/post7/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/post7/</guid>
+      <description>&lt;h2 id=&#34;my-week--_-&#34;&gt;My week \ (._.) /&lt;/h2&gt;
+&lt;p&gt;I finally managed to finish some long-overdue assignments.
+I gave myself a few days off — no tasks, just played video games all day.
+Sleep was inconsistent, but I’m trying to pay more attention to it and find some balance.
+Overall, last week was really relaxing… so relaxing, it actually stressed me out a little?!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 In last week :D</title>
+      <link>http://localhost:1313/en/post/post5/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/post5/</guid>
+      <description>&lt;h2 id=&#34;last-week-in-two-words&#34;&gt;Last week in two words!&lt;/h2&gt;
+&lt;p&gt;This week was a battle with code and a constant race against time.
+I was working on a program, trying to use a library — turns out, it’s only for x32, and I have a 64-bit system.
+Urgent search for an alternative began, with the deadline just 3 days away.&lt;/p&gt;
+&lt;p&gt;Typical student life: juggling bugs, studying, and trying to get some sleep (plus a bit of gaming to stay sane).
+Some days felt like a race against the clock, but what can you do — that’s the reality.&lt;/p&gt;
+&lt;p&gt;At least coffee exists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 In last week?</title>
+      <link>http://localhost:1313/en/post/post3/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/post3/</guid>
+      <description>&lt;h2 id=&#34;what-happened-last-week&#34;&gt;What happened last week?&lt;/h2&gt;
+&lt;p&gt;Last week was extremely intense: early morning classes, urgent homework,
+and prepping for exams (why are all the deadlines always on the same day?!).
+Despite the workload, I still found time for late-night gaming sessions — I was studying platformer mechanics after all,
+that counts as learning too!&lt;/p&gt;
+&lt;p&gt;In Unity, I created a prototype of a 2D game and realized two important things:
+first, the entire gameplay depends on the precision of jumps and controls, and second, testing is hard but essential.
+I’m already working on improvements for the next version!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 What happened in the last week?</title>
+      <link>http://localhost:1313/en/post/post1/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/post1/</guid>
+      <description>&lt;h2 id=&#34;what-happened-last-week&#34;&gt;What happened last week?&lt;/h2&gt;
+&lt;p&gt;I had so much work that needed to be finished and submitted before the deadlines.
+It felt like everything piled up at once — assignments, programming tasks, and random urgent matters.
+I kept telling myself: &amp;ldquo;Just one more task,&amp;rdquo; but before I knew it, it was already 3 a.m.&lt;/p&gt;
+&lt;p&gt;I was so focused on getting everything done that I barely slept. Coffee became my best friend,
+and sleep — my only salvation. Still, I managed to submit everything on time, and it was a relief.&lt;/p&gt;
+&lt;p&gt;I’m trying to get my sleep back on track and maybe even take better care of myself.
+Lesson learned: deadlines matter, but so does sleep!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | My site</title>
+    <link>http://localhost:1313/en/tags/markdown/</link>
+      <atom:link href="http://localhost:1313/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>http://localhost:1313/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Taking the course introduction to Linux</title>
+      <link>http://localhost:1313/en/project/linux/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/linux/</guid>
+      <description>&lt;h2 id=&#34;-course-about-linux&#34;&gt;🐧 Course about Linux&lt;/h2&gt;
+&lt;p&gt;In this week, I completed the course on basic operating system &lt;strong&gt;Linux&lt;/strong&gt;. And I will share my experience about ths e course.&lt;/p&gt;
+&lt;p&gt;Start,&lt;/p&gt;
+&lt;p&gt;This course is completely from beginner, who are trying to use &lt;strong&gt;Linux&lt;/strong&gt;, or learning how to operating system Linux works.
+Firstly, we started with the installation of Linux with step by step explanation&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-interface-and-command-line&#34;&gt;💻 Interface and Command Line&lt;/h2&gt;
+&lt;p&gt;After the installation of Linux, the first thing we will get to know is the &lt;strong&gt;graphic interface&lt;/strong&gt;, which honestly,
+it look alike like Window and MacOS&lt;/p&gt;
+&lt;p&gt;In the course, we will be working with command Line. Working with command line can be quite overwhelming for beginners.
+But in the course, this will be covered as well, along with other things such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navigating through files&lt;/li&gt;
+&lt;li&gt;How to run program&lt;/li&gt;
+&lt;li&gt;Using complex commands&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-work-with-remote-server&#34;&gt;🌐 Work with remote server&lt;/h2&gt;
+&lt;p&gt;The next stage will be working with remote server, where the course will cover the topic like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect to server via SSH&lt;/li&gt;
+&lt;li&gt;Running program remotely&lt;/li&gt;
+&lt;li&gt;Getting result from remote server to local computer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-advance-topis&#34;&gt;⚙️ Advance topis&lt;/h2&gt;
+&lt;p&gt;In the final part of the course, we will cover some unique topics such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing bash scripts&lt;/li&gt;
+&lt;li&gt;Learning / Mastering text editor Vim&lt;/li&gt;
+&lt;li&gt;Creating Graphic interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The course also provides practical tasks for testing the knowledge of the participates,
+especially the part of writing program script, since it requires to think and approve the task logically.&lt;/p&gt;
+&lt;h2 id=&#34;-certificate&#34;&gt;🎓 Certificate&lt;/h2&gt;
+&lt;p&gt;After complete the course, you will receive the &lt;a href=&#34;https://stepik.org/cert/2847252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;certificate of completion&lt;/a&gt;
+(which you can show it off to your friends 😆 ).&lt;/p&gt;
+&lt;h2 id=&#34;-overall&#34;&gt;🏁 Overall&lt;/h2&gt;
+&lt;p&gt;this is a good course for learning the basic of Linux, and also getting the general idea on how to work with operating system Linux works.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
