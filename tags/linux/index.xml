@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux | Мой сайт</title>
-    <link>https://sayprachanh-lsvnv.github.io:1313/tags/linux/</link>
-      <atom:link href="https://sayprachanh-lsvnv.github.io:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sayprachanh-lsvnv.github.io/tags/linux/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <description>Linux</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sayprachanh-lsvnv.github.io:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://sayprachanh-lsvnv.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Linux</title>
-      <link>https://sayprachanh-lsvnv.github.io:1313/tags/linux/</link>
+      <link>https://sayprachanh-lsvnv.github.io/tags/linux/</link>
     </image>
     
     <item>
       <title>Прохождение курса введение в Linux</title>
-      <link>https://sayprachanh-lsvnv.github.io:1313/project/linux/</link>
+      <link>https://sayprachanh-lsvnv.github.io/project/linux/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io:1313/project/linux/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io/project/linux/</guid>
       <description>&lt;h2 id=&#34;-курс-по-linux&#34;&gt;🐧 Курс по Linux&lt;/h2&gt;
 &lt;p&gt;На этой неделе я завершил курс по основам операционной системы &lt;strong&gt;Linux&lt;/strong&gt;. Хочу поделиться впечатлениями о нём.&lt;/p&gt;
 &lt;p&gt;Начало&lt;/p&gt;

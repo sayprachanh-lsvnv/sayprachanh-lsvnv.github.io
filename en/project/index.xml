@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | My site</title>
-    <link>https://sayprachanh-lsvnv.github.io:1313/en/project/</link>
-      <atom:link href="https://sayprachanh-lsvnv.github.io:1313/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sayprachanh-lsvnv.github.io/en/project/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sayprachanh-lsvnv.github.io:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://sayprachanh-lsvnv.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
-      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/</link>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/</link>
     </image>
     
     <item>
       <title>Taking the course introduction to Linux</title>
-      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/linux/</link>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/linux/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io:1313/en/project/linux/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io/en/project/linux/</guid>
       <description>&lt;h2 id=&#34;-course-about-linux&#34;&gt;🐧 Course about Linux&lt;/h2&gt;
 &lt;p&gt;In this week, I completed the course on basic operating system &lt;strong&gt;Linux&lt;/strong&gt;. And I will share my experience about ths e course.&lt;/p&gt;
 &lt;p&gt;Start,&lt;/p&gt;
@@ -60,9 +60,9 @@ especially the part of writing program script, since it requires to think and ap
     
     <item>
       <title>Neon</title>
-      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/neon/</link>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/neon/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io:1313/en/project/neon/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io/en/project/neon/</guid>
       <description>&lt;h2 id=&#34;what-is-neon&#34;&gt;What is Neon?&lt;/h2&gt;
 &lt;p&gt;Neon is the 3D game that I have been working for quite some times now, Neon is a pixel-based indie cyberpunk game.
 In a world where the city has been captured by the AI system, the player will have to learn how to survive.
@@ -86,9 +86,9 @@ Gloomy atmosphere, stylish neons, and the struggle of a man with machines&lt;/p&
     
     <item>
       <title>Qis</title>
-      <link>https://sayprachanh-lsvnv.github.io:1313/en/project/qis/</link>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/qis/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayprachanh-lsvnv.github.io:1313/en/project/qis/</guid>
+      <guid>https://sayprachanh-lsvnv.github.io/en/project/qis/</guid>
       <description>&lt;p&gt;Qis is a custom bash shell I’m building in C.
 I’m striving to make it as flexible and user-friendly as possible, both for everyday users
 and seamless system interaction. A mini-tool for those who crave a little more control.&lt;/p&gt;
