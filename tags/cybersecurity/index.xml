@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity | Мой сайт</title>
+    <link>https://sayprachanh-lsvnv.github.io/tags/cybersecurity/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cybersecurity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sayprachanh-lsvnv.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Cybersecurity</title>
+      <link>https://sayprachanh-lsvnv.github.io/tags/cybersecurity/</link>
+    </image>
+    
+    <item>
+      <title>Прохождение курса основы кибербезопасности</title>
+      <link>https://sayprachanh-lsvnv.github.io/project/cyber/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://sayprachanh-lsvnv.github.io/project/cyber/</guid>
+      <description>&lt;h2 id=&#34;-курс-о-кибербезопасности&#34;&gt;🖥️ Курс о кибербезопасности&lt;/h2&gt;
+&lt;p&gt;Последние несколько дней я изучал курс по основам кибербезопасности и хочу поделиться некоторыми впечатлениями. Прежде всего, этот курс рассказывает об основах кибербезопасности и охватывает множество концепций о&amp;hellip; ну, &lt;strong&gt;КИБЕРБЕЗОПАСНОСТИ!!&lt;/strong&gt; А также немного о сетях, защите компьютеров и веб-сайтов и так далее. Возможно, это звучит объёмно, но не волнуйтесь — этот курс полностью подходит для новичков, которые интересуются кибербезопасностью или хотят немного узнать об этой сфере.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-безопасность-в-сети&#34;&gt;🛜 Безопасность в сети&lt;/h2&gt;
+&lt;p&gt;Первый раздел курса фокусируется на том, как работает интернет. Здесь рассматриваются:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Базовые сетевые протоколы — TCP/IP, HTTP и другие.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Персонализация сети — как настройки влияют на безопасность.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Риски и защита беспроводных Wi-Fi сетей.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кроме того, в разделе объясняются некоторые принципы использования браузера Tor и других методов анонимизации. Лично мне модуль про Tor показался особенно интересным — он действительно наглядно демонстрирует, как работает анонимность в сети на практике.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-защита-пк-и-телефона&#34;&gt;📱 Защита ПК и телефона&lt;/h2&gt;
+&lt;p&gt;Далее, второй раздел, который посвящён цифровой гигиене и защите личных устройств:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Шифрование диска.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Принципы создания надёжных паролей и менеджеры паролей.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Концепция фишинга.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Вирусы с реальными примерами и методами защиты.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Безопасность мессенджеров.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-криптография-на-практике&#34;&gt;🔗 Криптография на практике&lt;/h2&gt;
+&lt;p&gt;Финальная часть курса — самая интересная и сложная. В этом разделе рассматриваются важные темы, такие как&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Введение в криптографию (история, алгоритмы, почему это важно),&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Блокчейн (без хайпа, просто с понятным примером)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А также темы о цифровой подписи и проверке подлинности, электронных платежах и безопасности транзакций.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🏁 Итог&lt;/h2&gt;
+&lt;p&gt;Это действительно отличный вводный курс по кибербезопасности, поскольку он охватывает множество концепций в этой сфере, а также даёт представление о защите и о том, как в целом работают некоторые системы.&lt;/p&gt;
+&lt;p&gt;К сожалению, этот курс не выдаёт сертификата о завершении (жаль&amp;hellip;😞), зато мы получили кое-что поважнее&amp;hellip; знания&amp;hellip; (ну, если сертификат не нужен вам для каких-то других целей&amp;hellip;🤨). В любом случае, на этом пока всё. Спасибо, что прочитали пост!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

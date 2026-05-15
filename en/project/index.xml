@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | My site</title>
+    <link>https://sayprachanh-lsvnv.github.io/en/project/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sayprachanh-lsvnv.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Taking the course Fundamentals of cybersecurity</title>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/cyber/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://sayprachanh-lsvnv.github.io/en/project/cyber/</guid>
+      <description>&lt;h2 id=&#34;-course-about-the-cybersecurity&#34;&gt;🖥️ Course about the cybersecurity&lt;/h2&gt;
+&lt;p&gt;For the past few days, I completed the course on the fundamentals of cybersecurity and I will share some of my experience about the course. Firstly, this course is about basic of cybersecurity which covers a lot of concept about well&amp;hellip; &lt;strong&gt;CYBERSECURITY!!&lt;/strong&gt; and some stuff about networking, website and computer protection and etc, it maybe a bit much, but rest assured, this course is also completely for beginner who are interested in cybersecurity or want to know a bit about such field.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-network-security&#34;&gt;🛜 Network security&lt;/h2&gt;
+&lt;p&gt;The first section of the course, focuses on how the internet works, which covered such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic networks protocols - TCP/IP, HTTP, and others,&lt;/li&gt;
+&lt;li&gt;Network personalization for how the settings affect security,&lt;/li&gt;
+&lt;li&gt;The risk and protection of the Wireless Wi-Fi networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additionally, it introduced some usages and concept of Tor browser and other anonymization methods. Personally, the Tor module was especially interesting — it really showed how online anonymity works in practice.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-pcphone-protection&#34;&gt;📱 PC/Phone protection&lt;/h2&gt;
+&lt;p&gt;Next up, the second section, which covered about personal digital hygiene and the protection of personal device such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disk encryption&lt;/li&gt;
+&lt;li&gt;The idea of strong passwords and password managers.&lt;/li&gt;
+&lt;li&gt;The concept of Phishing&lt;/li&gt;
+&lt;li&gt;Viruses with real-world examples and protection methods.&lt;/li&gt;
+&lt;li&gt;Messenger security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-cryptography-in-practice&#34;&gt;🔗 Cryptography in practice&lt;/h2&gt;
+&lt;p&gt;The final part of the course, the most  interesting and challenging. In this section will covered the important parts such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to cryptography (history, algorithms, why it&amp;rsquo;s important)&lt;/li&gt;
+&lt;li&gt;Blockchain (no hype, just clear example)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As well as the topic about digital signatures and verify authenticity, Electronic payments and transaction security.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-overall&#34;&gt;🏁 Overall&lt;/h2&gt;
+&lt;p&gt;This is a really great course for introduction to the cybersecurity, since it covered a lot of concept about such field, plus give some ideas about protection and how some systems work in general.&lt;/p&gt;
+&lt;p&gt;Unfortunately, This course doesn&amp;rsquo;t provide any certificate of completion (sad&amp;hellip;😞), but we received something more important&amp;hellip; knowledges&amp;hellip; (unless you need the certificate for something else&amp;hellip;🤨). Anyway, this&amp;rsquo;s it for now. Thank you for reading the post!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taking the course introduction to Linux</title>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/linux/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://sayprachanh-lsvnv.github.io/en/project/linux/</guid>
+      <description>&lt;h2 id=&#34;-course-about-linux&#34;&gt;🐧 Course about Linux&lt;/h2&gt;
+&lt;p&gt;In this week, I completed the course on basic operating system &lt;strong&gt;Linux&lt;/strong&gt;. And I will share my experience about the course.&lt;/p&gt;
+&lt;p&gt;Start,&lt;/p&gt;
+&lt;p&gt;This course is completely from beginner, who are trying to use &lt;strong&gt;Linux&lt;/strong&gt;, or learning how to operating system Linux works.
+Firstly, we started with the installation of Linux with step by step explanation&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-interface-and-command-line&#34;&gt;💻 Interface and Command Line&lt;/h2&gt;
+&lt;p&gt;After the installation of Linux, the first thing we will get to know is the &lt;strong&gt;graphic interface&lt;/strong&gt;, which honestly,
+it look alike like Window and MacOS&lt;/p&gt;
+&lt;p&gt;In the course, we will be working with command Line. Working with command line can be quite overwhelming for beginners.
+But in the course, this will be covered as well, along with other things such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navigating through files&lt;/li&gt;
+&lt;li&gt;How to run program&lt;/li&gt;
+&lt;li&gt;Using complex commands&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-work-with-remote-server&#34;&gt;🌐 Work with remote server&lt;/h2&gt;
+&lt;p&gt;The next stage will be working with remote server, where the course will cover the topic like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect to server via SSH&lt;/li&gt;
+&lt;li&gt;Running program remotely&lt;/li&gt;
+&lt;li&gt;Getting result from remote server to local computer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-advance-topis&#34;&gt;⚙️ Advance topis&lt;/h2&gt;
+&lt;p&gt;In the final part of the course, we will cover some unique topics such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing bash scripts&lt;/li&gt;
+&lt;li&gt;Learning / Mastering text editor Vim&lt;/li&gt;
+&lt;li&gt;Creating Graphic interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The course also provides practical tasks for testing the knowledge of the participates,
+especially the part of writing program script, since it requires to think and approve the task logically.&lt;/p&gt;
+&lt;h2 id=&#34;-certificate&#34;&gt;🎓 Certificate&lt;/h2&gt;
+&lt;p&gt;After complete the course, you will receive the &lt;a href=&#34;https://stepik.org/cert/2847252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;certificate of completion&lt;/a&gt;
+(which you can show it off to your friends 😆 ).&lt;/p&gt;
+&lt;h2 id=&#34;-overall&#34;&gt;🏁 Overall&lt;/h2&gt;
+&lt;p&gt;this is a good course for learning the basic of Linux, and also getting the general idea on how to work with operating system Linux works.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neon</title>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/neon/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://sayprachanh-lsvnv.github.io/en/project/neon/</guid>
+      <description>&lt;h2 id=&#34;what-is-neon&#34;&gt;What is Neon?&lt;/h2&gt;
+&lt;p&gt;Neon is the 3D game that I have been working for quite some times now, Neon is a pixel-based indie cyberpunk game.
+In a world where the city has been captured by the AI system, the player will have to learn how to survive.
+Gloomy atmosphere, stylish neons, and the struggle of a man with machines&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-features&#34;&gt;🔥 Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Moody pixel-art visuals with a cyberpunk soul.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tactical survival gameplay - think fast or get deleted 💀 .&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A haunting synthwave soundtrack that pulses with the city’s heartbeat.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;The game is still under development since I only work on it in my free time.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qis</title>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/qis/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://sayprachanh-lsvnv.github.io/en/project/qis/</guid>
+      <description>&lt;p&gt;Qis is a custom bash shell I’m building in C.
+I’m striving to make it as flexible and user-friendly as possible, both for everyday users
+and seamless system interaction. A mini-tool for those who crave a little more control.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is a project that I have in mind for a long time, I will probably work on it during free time&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

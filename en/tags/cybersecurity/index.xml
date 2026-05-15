@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity | My site</title>
+    <link>https://sayprachanh-lsvnv.github.io/en/tags/cybersecurity/</link>
+      <atom:link href="https://sayprachanh-lsvnv.github.io/en/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cybersecurity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sayprachanh-lsvnv.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Cybersecurity</title>
+      <link>https://sayprachanh-lsvnv.github.io/en/tags/cybersecurity/</link>
+    </image>
+    
+    <item>
+      <title>Taking the course Fundamentals of cybersecurity</title>
+      <link>https://sayprachanh-lsvnv.github.io/en/project/cyber/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://sayprachanh-lsvnv.github.io/en/project/cyber/</guid>
+      <description>&lt;h2 id=&#34;-course-about-the-cybersecurity&#34;&gt;🖥️ Course about the cybersecurity&lt;/h2&gt;
+&lt;p&gt;For the past few days, I completed the course on the fundamentals of cybersecurity and I will share some of my experience about the course. Firstly, this course is about basic of cybersecurity which covers a lot of concept about well&amp;hellip; &lt;strong&gt;CYBERSECURITY!!&lt;/strong&gt; and some stuff about networking, website and computer protection and etc, it maybe a bit much, but rest assured, this course is also completely for beginner who are interested in cybersecurity or want to know a bit about such field.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-network-security&#34;&gt;🛜 Network security&lt;/h2&gt;
+&lt;p&gt;The first section of the course, focuses on how the internet works, which covered such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic networks protocols - TCP/IP, HTTP, and others,&lt;/li&gt;
+&lt;li&gt;Network personalization for how the settings affect security,&lt;/li&gt;
+&lt;li&gt;The risk and protection of the Wireless Wi-Fi networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additionally, it introduced some usages and concept of Tor browser and other anonymization methods. Personally, the Tor module was especially interesting — it really showed how online anonymity works in practice.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-pcphone-protection&#34;&gt;📱 PC/Phone protection&lt;/h2&gt;
+&lt;p&gt;Next up, the second section, which covered about personal digital hygiene and the protection of personal device such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disk encryption&lt;/li&gt;
+&lt;li&gt;The idea of strong passwords and password managers.&lt;/li&gt;
+&lt;li&gt;The concept of Phishing&lt;/li&gt;
+&lt;li&gt;Viruses with real-world examples and protection methods.&lt;/li&gt;
+&lt;li&gt;Messenger security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-cryptography-in-practice&#34;&gt;🔗 Cryptography in practice&lt;/h2&gt;
+&lt;p&gt;The final part of the course, the most  interesting and challenging. In this section will covered the important parts such as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to cryptography (history, algorithms, why it&amp;rsquo;s important)&lt;/li&gt;
+&lt;li&gt;Blockchain (no hype, just clear example)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As well as the topic about digital signatures and verify authenticity, Electronic payments and transaction security.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-overall&#34;&gt;🏁 Overall&lt;/h2&gt;
+&lt;p&gt;This is a really great course for introduction to the cybersecurity, since it covered a lot of concept about such field, plus give some ideas about protection and how some systems work in general.&lt;/p&gt;
+&lt;p&gt;Unfortunately, This course doesn&amp;rsquo;t provide any certificate of completion (sad&amp;hellip;😞), but we received something more important&amp;hellip; knowledges&amp;hellip; (unless you need the certificate for something else&amp;hellip;🤨). Anyway, this&amp;rsquo;s it for now. Thank you for reading the post!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
